@@ -1,0 +1,373 @@
+2019-02-13 12:32:03,056 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @135335ms
+2019-02-13 12:32:03,176 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2019-02-13 12:32:03,219 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@459f3a14{/help,null,AVAILABLE}
+2019-02-13 12:32:03,260 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@48d78b55{HTTP/1.1,[http/1.1]}{127.0.0.1:60252}
+2019-02-13 12:32:03,260 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @135541ms
+2019-02-13 12:44:27,153 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@48d78b55{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2019-02-13 12:44:27,173 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@459f3a14{/help,null,UNAVAILABLE}
+2019-02-13 12:44:54,753 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @24676ms
+2019-02-13 12:44:54,854 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2019-02-13 12:44:54,896 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@626c6ea3{/help,null,AVAILABLE}
+2019-02-13 12:44:54,929 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@603c83c5{HTTP/1.1,[http/1.1]}{127.0.0.1:61861}
+2019-02-13 12:44:54,929 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @24854ms
+2019-02-13 12:52:31,361 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\demo\pom.xml.
+2019-02-13 12:52:35,566 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-02-13 12:52:35,567 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-02-13 12:52:35,577 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-02-13 12:52:35,591 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-02-13 12:52:38,774 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2019-02-13 12:52:38,777 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-13 12:52:39,361 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\demo\pom.xml.
+2019-02-13 12:52:40,119 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2019-02-13 12:52:40,120 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-02-13 12:52:40,122 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2019-02-13 12:52:40,131 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2019-02-13 12:52:40,812 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-02-13 12:52:46,819 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:52:46,826 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 12:52:46,849 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:52:46,859 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:52:46,864 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\demo\src\test\resources
+2019-02-13 12:52:48,525 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:52:48,538 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:52:48,544 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:52:48,551 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:52:48,551 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\demo\src\test\resources
+2019-02-13 12:54:43,590 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-info-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-info-service\pom.xml.
+2019-02-13 12:54:44,516 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info-service/src/main/java
+2019-02-13 12:54:44,516 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info-service/src/main/resources
+2019-02-13 12:54:44,523 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info-service/src/main/resources
+2019-02-13 12:54:44,536 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info-service/src/test/java
+2019-02-13 12:54:44,926 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-02-13 12:54:44,931 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-13 12:54:45,398 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-info-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-info-service\pom.xml.
+2019-02-13 12:54:46,147 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info-service/src/main/java
+2019-02-13 12:54:46,147 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info-service/src/main/resources
+2019-02-13 12:54:46,155 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info-service/src/main/resources
+2019-02-13 12:54:46,158 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info-service/src/test/java
+2019-02-13 12:54:46,315 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-02-13 12:54:46,961 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-catalog-service\pom.xml.
+2019-02-13 12:54:47,843 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:47,844 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 12:54:47,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:54:47,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:47,871 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 12:54:48,394 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:48,400 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 12:54:48,402 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:54:48,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:48,404 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 12:54:53,518 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:53,520 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 12:54:53,522 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:54:53,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:53,528 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 12:54:53,557 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:53,563 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:54:53,563 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:54:53,570 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:54:53,570 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 12:55:12,654 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:rating-data-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\rating-data-service\pom.xml.
+2019-02-13 12:55:13,337 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rating-data-service/src/main/java
+2019-02-13 12:55:13,346 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rating-data-service/src/main/resources
+2019-02-13 12:55:13,353 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rating-data-service/src/main/resources
+2019-02-13 12:55:13,367 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rating-data-service/src/test/java
+2019-02-13 12:55:13,744 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-02-13 12:55:13,749 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-02-13 12:55:13,977 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:rating-data-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\rating-data-service\pom.xml.
+2019-02-13 12:55:14,453 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rating-data-service/src/main/java
+2019-02-13 12:55:14,453 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rating-data-service/src/main/resources
+2019-02-13 12:55:14,465 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /rating-data-service/src/main/resources
+2019-02-13 12:55:14,468 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /rating-data-service/src/test/java
+2019-02-13 12:55:14,656 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-02-13 12:55:15,424 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:55:15,429 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 12:55:15,435 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:55:15,456 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:55:15,457 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 12:55:16,611 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:55:16,611 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:55:16,611 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 12:55:16,614 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 12:55:16,614 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:02:58,651 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:02:58,655 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:02:58,657 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:02:58,664 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:02:58,664 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:05:03,077 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:05:03,078 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:05:03,086 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:05:03,093 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:05:03,099 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:06:01,065 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:06:01,072 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:06:01,084 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:06:01,092 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:06:01,092 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:06:24,627 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:06:24,628 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:06:24,630 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:06:24,631 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:06:24,636 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:11:02,425 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:11:02,434 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:11:02,443 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:11:02,450 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:11:02,451 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:13:35,714 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:13:35,716 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:13:35,724 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:13:35,732 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:13:35,738 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:14:35,996 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:14:36,003 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:14:36,010 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:14:36,017 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:14:36,017 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:15:32,932 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:15:32,933 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:15:32,935 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:15:32,936 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:15:32,936 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:17:11,478 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:17:11,480 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:17:11,481 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:17:11,489 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:17:11,489 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:20:29,064 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:20:29,067 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:20:29,085 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:20:29,098 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:20:29,111 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:20:36,715 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:20:36,723 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:20:36,730 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:20:36,738 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:20:36,738 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:30:10,263 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:30:10,264 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:30:10,268 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:30:10,272 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:30:10,283 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:30:15,885 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:30:15,893 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:30:15,903 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:30:15,912 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:30:15,912 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-13 16:31:28,663 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:31:28,663 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:31:28,674 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:31:28,687 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:31:28,698 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:32:42,543 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:32:42,550 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:32:42,560 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:32:42,568 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:32:42,568 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:36:36,239 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:36:36,240 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:36:36,244 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:36:36,247 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:36:36,247 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:37:24,396 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:37:24,398 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:37:24,401 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:37:24,409 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:37:24,409 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:38:23,216 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:38:23,218 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:38:23,234 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:38:23,241 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:38:23,248 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:38:44,197 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:38:44,202 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:38:44,209 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:38:44,215 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:38:44,215 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-13 16:45:48,233 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:45:48,234 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:45:48,240 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:45:48,242 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:45:48,247 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:48:45,140 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:48:45,149 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:48:45,165 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:48:45,174 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:48:45,174 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:56:31,010 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:56:31,011 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:56:31,023 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:56:31,029 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:56:31,035 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 16:59:50,851 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:59:50,857 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 16:59:50,866 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 16:59:50,872 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 16:59:50,872 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-13 17:04:30,615 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 17:04:30,616 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-13 17:04:30,619 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-13 17:04:30,621 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-13 17:04:30,621 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 17:33:07,842 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-catalog-service\pom.xml.
+2019-02-14 17:33:10,842 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:10,846 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:33:10,864 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:10,867 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:10,868 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 17:33:11,444 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-info-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-info-service\pom.xml.
+2019-02-14 17:33:11,853 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:11,853 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:33:11,858 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:11,860 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:11,860 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-14 17:33:12,402 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:rating-data-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\rating-data-service\pom.xml.
+2019-02-14 17:33:13,268 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:13,269 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:33:13,281 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:13,294 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:13,294 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-14 17:33:13,449 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @33252ms
+2019-02-14 17:33:13,573 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2019-02-14 17:33:13,632 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4662ba24{/help,null,AVAILABLE}
+2019-02-14 17:33:13,670 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3cafafcf{HTTP/1.1,[http/1.1]}{127.0.0.1:61037}
+2019-02-14 17:33:13,670 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @33474ms
+2019-02-14 17:33:15,353 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-catalog-service\pom.xml.
+2019-02-14 17:33:15,884 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-info-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-info-service\pom.xml.
+2019-02-14 17:33:16,133 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:rating-data-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\rating-data-service\pom.xml.
+2019-02-14 17:33:17,165 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,171 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,176 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,178 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,184 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 17:33:17,460 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,466 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,466 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,468 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,468 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-info-service\src\test\resources
+2019-02-14 17:33:17,723 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,724 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,724 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:33:17,726 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:33:17,731 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\rating-data-service\src\test\resources
+2019-02-14 17:38:53,777 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:38:53,780 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:38:53,791 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:38:53,792 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:38:53,792 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 17:42:51,596 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:42:51,598 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:42:51,605 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:42:51,607 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:42:51,615 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 17:43:20,822 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:43:20,830 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 17:43:20,837 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 17:43:20,845 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 17:43:20,845 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 18:23:12,617 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:movie-catalog-service:0.0.1-SNAPSHOT @ C:\WorkSpaces\Microservice\movie-catalog-service\pom.xml.
+2019-02-14 18:23:17,422 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-webflux/2.1.2.RELEASE/spring-boot-starter-webflux-2.1.2.RELEASE.pom
+2019-02-14 18:23:17,926 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-webflux/2.1.2.RELEASE/spring-boot-starter-webflux-2.1.2.RELEASE.pom
+2019-02-14 18:23:18,450 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-reactor-netty/2.1.2.RELEASE/spring-boot-starter-reactor-netty-2.1.2.RELEASE.pom
+2019-02-14 18:23:18,929 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-reactor-netty/2.1.2.RELEASE/spring-boot-starter-reactor-netty-2.1.2.RELEASE.pom
+2019-02-14 18:23:19,452 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/netty/reactor-netty/0.8.4.RELEASE/reactor-netty-0.8.4.RELEASE.pom
+2019-02-14 18:23:19,932 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/netty/reactor-netty/0.8.4.RELEASE/reactor-netty-0.8.4.RELEASE.pom
+2019-02-14 18:23:20,426 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http/4.1.31.Final/netty-codec-http-4.1.31.Final.pom
+2019-02-14 18:23:20,905 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http/4.1.31.Final/netty-codec-http-4.1.31.Final.pom
+2019-02-14 18:23:21,341 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-parent/4.1.31.Final/netty-parent-4.1.31.Final.pom
+2019-02-14 18:23:22,477 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-parent/4.1.31.Final/netty-parent-4.1.31.Final.pom
+2019-02-14 18:23:22,915 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final.pom
+2019-02-14 18:23:23,421 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final.pom
+2019-02-14 18:23:23,815 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final.pom
+2019-02-14 18:23:24,310 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final.pom
+2019-02-14 18:23:24,775 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final.pom
+2019-02-14 18:23:25,277 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final.pom
+2019-02-14 18:23:25,717 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final.pom
+2019-02-14 18:23:26,192 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final.pom
+2019-02-14 18:23:26,664 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final.pom
+2019-02-14 18:23:27,146 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final.pom
+2019-02-14 18:23:27,632 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http2/4.1.31.Final/netty-codec-http2-4.1.31.Final.pom
+2019-02-14 18:23:28,123 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http2/4.1.31.Final/netty-codec-http2-4.1.31.Final.pom
+2019-02-14 18:23:28,568 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final.pom
+2019-02-14 18:23:29,071 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final.pom
+2019-02-14 18:23:29,566 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler-proxy/4.1.31.Final/netty-handler-proxy-4.1.31.Final.pom
+2019-02-14 18:23:30,043 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler-proxy/4.1.31.Final/netty-handler-proxy-4.1.31.Final.pom
+2019-02-14 18:23:30,436 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-socks/4.1.31.Final/netty-codec-socks-4.1.31.Final.pom
+2019-02-14 18:23:30,919 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-socks/4.1.31.Final/netty-codec-socks-4.1.31.Final.pom
+2019-02-14 18:23:31,389 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-epoll/4.1.31.Final/netty-transport-native-epoll-4.1.31.Final.pom
+2019-02-14 18:23:31,869 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-epoll/4.1.31.Final/netty-transport-native-epoll-4.1.31.Final.pom
+2019-02-14 18:23:32,373 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-unix-common/4.1.31.Final/netty-transport-native-unix-common-4.1.31.Final.pom
+2019-02-14 18:23:32,653 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-unix-common/4.1.31.Final/netty-transport-native-unix-common-4.1.31.Final.pom
+2019-02-14 18:23:33,095 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/reactor-core/3.2.5.RELEASE/reactor-core-3.2.5.RELEASE.pom
+2019-02-14 18:23:33,557 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/reactor-core/3.2.5.RELEASE/reactor-core-3.2.5.RELEASE.pom
+2019-02-14 18:23:33,940 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.pom
+2019-02-14 18:23:34,416 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.pom
+2019-02-14 18:23:34,824 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/spring-webflux/5.1.4.RELEASE/spring-webflux-5.1.4.RELEASE.pom
+2019-02-14 18:23:35,301 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/spring-webflux/5.1.4.RELEASE/spring-webflux-5.1.4.RELEASE.pom
+2019-02-14 18:23:35,761 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2019-02-14 18:23:36,245 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2019-02-14 18:23:36,710 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2019-02-14 18:23:36,986 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2019-02-14 18:23:37,466 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2019-02-14 18:23:37,947 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2019-02-14 18:23:38,990 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-webflux/2.1.2.RELEASE/spring-boot-starter-webflux-2.1.2.RELEASE.jar
+2019-02-14 18:23:39,271 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-webflux/2.1.2.RELEASE/spring-boot-starter-webflux-2.1.2.RELEASE.jar
+2019-02-14 18:23:39,588 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-reactor-netty/2.1.2.RELEASE/spring-boot-starter-reactor-netty-2.1.2.RELEASE.jar
+2019-02-14 18:23:39,865 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/boot/spring-boot-starter-reactor-netty/2.1.2.RELEASE/spring-boot-starter-reactor-netty-2.1.2.RELEASE.jar
+2019-02-14 18:23:40,161 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/netty/reactor-netty/0.8.4.RELEASE/reactor-netty-0.8.4.RELEASE.jar
+2019-02-14 18:23:43,259 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/netty/reactor-netty/0.8.4.RELEASE/reactor-netty-0.8.4.RELEASE.jar
+2019-02-14 18:23:43,518 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http/4.1.31.Final/netty-codec-http-4.1.31.Final.jar
+2019-02-14 18:23:46,181 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http/4.1.31.Final/netty-codec-http-4.1.31.Final.jar
+2019-02-14 18:23:46,422 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final.jar
+2019-02-14 18:23:47,770 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec/4.1.31.Final/netty-codec-4.1.31.Final.jar
+2019-02-14 18:23:48,101 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http2/4.1.31.Final/netty-codec-http2-4.1.31.Final.jar
+2019-02-14 18:23:49,932 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-http2/4.1.31.Final/netty-codec-http2-4.1.31.Final.jar
+2019-02-14 18:23:50,208 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final.jar
+2019-02-14 18:23:52,016 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler/4.1.31.Final/netty-handler-4.1.31.Final.jar
+2019-02-14 18:23:52,273 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final.jar
+2019-02-14 18:23:53,413 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-buffer/4.1.31.Final/netty-buffer-4.1.31.Final.jar
+2019-02-14 18:23:53,659 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final.jar
+2019-02-14 18:23:55,712 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport/4.1.31.Final/netty-transport-4.1.31.Final.jar
+2019-02-14 18:23:55,986 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final.jar
+2019-02-14 18:23:56,473 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-resolver/4.1.31.Final/netty-resolver-4.1.31.Final.jar
+2019-02-14 18:23:56,748 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler-proxy/4.1.31.Final/netty-handler-proxy-4.1.31.Final.jar
+2019-02-14 18:23:57,138 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-handler-proxy/4.1.31.Final/netty-handler-proxy-4.1.31.Final.jar
+2019-02-14 18:23:57,416 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-socks/4.1.31.Final/netty-codec-socks-4.1.31.Final.jar
+2019-02-14 18:23:57,897 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-codec-socks/4.1.31.Final/netty-codec-socks-4.1.31.Final.jar
+2019-02-14 18:23:58,204 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-epoll/4.1.31.Final/netty-transport-native-epoll-4.1.31.Final-linux-x86_64.jar
+2019-02-14 18:23:59,121 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-epoll/4.1.31.Final/netty-transport-native-epoll-4.1.31.Final-linux-x86_64.jar
+2019-02-14 18:23:59,398 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final.jar
+2019-02-14 18:24:01,599 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-common/4.1.31.Final/netty-common-4.1.31.Final.jar
+2019-02-14 18:24:01,930 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-unix-common/4.1.31.Final/netty-transport-native-unix-common-4.1.31.Final.jar
+2019-02-14 18:24:02,618 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/netty/netty-transport-native-unix-common/4.1.31.Final/netty-transport-native-unix-common-4.1.31.Final.jar
+2019-02-14 18:24:02,934 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/spring-webflux/5.1.4.RELEASE/spring-webflux-5.1.4.RELEASE.jar
+2019-02-14 18:24:05,835 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/springframework/spring-webflux/5.1.4.RELEASE/spring-webflux-5.1.4.RELEASE.jar
+2019-02-14 18:24:06,241 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/reactor-core/3.2.5.RELEASE/reactor-core-3.2.5.RELEASE.jar
+2019-02-14 18:24:11,366 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/io/projectreactor/reactor-core/3.2.5.RELEASE/reactor-core-3.2.5.RELEASE.jar
+2019-02-14 18:24:11,665 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar
+2019-02-14 18:24:12,156 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar
+2019-02-14 18:24:12,488 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2019-02-14 18:24:12,782 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2019-02-14 18:24:13,059 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2019-02-14 18:24:13,450 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.deere.com/artifactory/parts-shared-snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2019-02-14 18:24:16,343 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:24:16,349 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 18:24:16,355 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 18:24:16,363 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:24:16,363 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 18:24:18,846 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:24:18,847 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 18:24:18,857 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 18:24:18,866 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:24:18,874 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 18:26:57,877 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:26:57,883 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 18:26:57,891 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 18:26:57,897 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:26:57,897 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
+2019-02-14 18:27:37,616 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:27:37,618 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-02-14 18:27:37,622 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-02-14 18:27:37,624 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-14 18:27:37,632 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpaces\Microservice\movie-catalog-service\src\test\resources
