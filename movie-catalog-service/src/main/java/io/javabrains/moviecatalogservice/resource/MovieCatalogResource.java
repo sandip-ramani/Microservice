@@ -1,5 +1,6 @@
 package io.javabrains.moviecatalogservice.resource;
 
+import java.lang.reflect.ParameterizedType;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -15,6 +16,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 import io.javabrains.moviecatalogservice.model.CatalogItem;
 import io.javabrains.moviecatalogservice.model.Movie;
 import io.javabrains.moviecatalogservice.model.Rating;
+import io.javabrains.moviecatalogservice.model.UserRating;
 
 @RestController
 @RequestMapping("/catalog")
@@ -33,14 +35,16 @@ public class MovieCatalogResource {
 		//get all rated movie IDs
 		
 		
-		List<Rating> ratings = Arrays.asList(
-				new Rating("1234", 3),
-				new Rating("123", 4)
-				);
+		UserRating ratings = (UserRating) rest.getForObject("http://localhost:8083/ratingsdata/user/"+userId, UserRating.class);
+				
 
-	    List<CatalogItem> rating = ratings.stream()
+	    List<CatalogItem> rating = ratings.getUserRating().stream()
 	                                .map(s -> {
 	                                	final Movie	 movie  = rest.getForObject("http://localhost:8082/movie/"+s.getMovieIdl(), Movie.class);
+	                                	/* Asynchronous call using web client
+	                                	final Movie	 movie = 	builder.build().get()
+	                                	.uri("http://localhost:8082/movie/"+s.getMovieIdl())
+	                                	.retrieve().bodyToMono(Movie.class).block();*/
 	                                	return new CatalogItem(movie.getName(), movie.getMovieId(), s.getRating());
 	                                })
 	                                .collect(Collectors.toList());
